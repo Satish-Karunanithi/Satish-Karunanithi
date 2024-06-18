@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Satish-Karunanithi/Satish-Karunanithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/jeff1010322/badges/community)](https://community.vaunt.dev/board/jeff1010322)
+<p>
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/v1/github/entities/jeff1010322/contributions?format=svg&private=true" width="600" />
+  </a>
+</p>
+# :first_place_medal: Vaunt Achievements
+<p>
+  <a href="https://vaunt.dev">
+    <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/jeff1010322/achievements?format=svg&limit=8&raw=true" width="600" />
+  </a>
+</p>
